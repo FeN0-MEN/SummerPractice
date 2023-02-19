@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Капитанская дочка",
+    "author": "Александр Пушкин",
+    "publisher": "Роспечать",
+    "libSection": "Роман",
+    "origin": "Россия",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Я - легенда",
+    "author": "Ричард Матесон",
+    "publisher": "АЗБУКА",
+    "libSection": "Фантастика",
+    "origin": "США",
+    "rating": 5,
+    "exists": false
+  },
+  {
+    "name": "Бестии Блэкстоуна",
+    "author": "Джейкоб Грей",
+    "publisher": "СоюзПечать",
+    "libSection": "Фантастика",
+    "origin": "Великобритания",
+    "rating": 3,
+    "exists": true
+  },
+  {
+    "name": "Зона доступа",
+    "author": "Владислав Выставной",
+    "publisher": "АЗБУКА",
+    "libSection": "Фантастика",
+    "origin": "Россия",
+    "rating": 2,
+    "exists": false
+  },
+  {
+    "name": "Математические основы информатики",
+    "author": "Ирина Фалина",
+    "publisher": "Бином",
+    "libSection": "Образование",
+    "origin": "Россия",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Привидений не бывает",
+    "author": "Кир Булычёв",
+    "publisher": "РосПечать",
+    "libSection": "Фантастика",
+    "origin": "Россия",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Привидений не бывает",
+    "author": "Кир Булычёв",
+    "publisher": "РосПечать",
+    "libSection": "Фантастика",
+    "origin": "Россия",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Ваша собака",
+    "author": "Джоан Палмер",
+    "publisher": "SalamanderBook",
+    "libSection": "Образование",
+    "origin": "Великобритания",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Приключения Шерлока Холмса",
+    "author": "Конан Дойл",
+    "publisher": "ОСЭ",
+    "libSection": "Детектив",
+    "origin": "Великобритания",
+    "rating": 5,
+    "exists": false
+  },
+  {
+    "name": "Капитан Немо",
+    "author": "Жюль Верн",
+    "publisher": "ОСЭ",
+    "libSection": "Научная-Фантастика",
+    "origin": "Франция",
+    "rating": 4,
+    "exists": false
+  },
+  {
+    "name": "Робинзон Крузо",
+    "author": "Даниэль Дефо",
+    "publisher": "ОСЭ",
+    "libSection": "Роман",
+    "origin": "Великобритания",
+    "rating": 5,
+    "exists": false
+  },
+  {
+    "name": "Зелёные страницы",
+    "author": "Александр Плешаков",
+    "publisher": "Просвещение",
+    "libSection": "Образование",
+    "origin": "Россия",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Атлас-определитель от земли до неба",
+    "author": "Александр Плешаков",
+    "publisher": "Просвещение",
+    "libSection": "Образование",
+    "origin": "Россия",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "50 Великих правителей России",
+    "author": "Алёна Пантилеева",
+    "publisher": "Белый Город",
+    "libSection": "История",
+    "origin": "Россия",
+    "rating": 3,
+    "exists": false
+  },
+  {
+    "name": "1984",
+    "author": "Джордж Оруэл",
+    "publisher": "Знак",
+    "libSection": "Роман-антиутопия",
+    "origin": "Великобритания",
+    "rating": 5,
+    "exists": true
+  },
+  {
+    "name": "Скотный двор",
+    "author": "Джордж Оруэл",
+    "publisher": "Знак",
+    "libSection": "Повесть",
+    "origin": "Великобритания",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Мастер и Маргарита",
+    "author": "Михаил Булгаков",
+    "publisher": "РосПечать",
+    "libSection": "Роман",
+    "origin": "Россия",
+    "rating": 5,
+    "exists": true
+  },
+  {
+    "name": "Ведьмак",
+    "author": "Анджей Сапковский",
+    "publisher": "Союз",
+    "libSection": "Фантастика",
+    "origin": "Польша",
+    "rating": 3,
+    "exists": false
+  },
+  {
+    "name": "Граф Монте-Кристо",
+    "author": "Александр Дюма",
+    "publisher": "Кировец",
+    "libSection": "Роман",
+    "origin": "Франция",
+    "rating": 5,
+    "exists": true
+  },
+  {
+    "name": "Последнее желание",
+    "author": "Анджей Сапковский",
+    "publisher": "Союз",
+    "libSection": "Фантастика",
+    "origin": "Польша",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Игра престолов",
+    "author": "Джордж Мартин",
+    "publisher": "Знак",
+    "libSection": "Роман",
+    "origin": "США",
+    "rating": 4,
+    "exists": false
+  },
+  {
+    "name": "Белый клык",
+    "author": "Джек Лондон",
+    "publisher": "Белый город",
+    "libSection": "Повесть",
+    "origin": "Великобритания",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Ревизор",
+    "author": "Николай Гоголь",
+    "publisher": "Аист",
+    "libSection": "Комедия",
+    "origin": "Украина",
+    "rating": 3,
+    "exists": true
+  },
+  {
+    "name": "Тарас Бульба",
+    "author": "Николай Гоголь",
+    "publisher": "АЗБУКА",
+    "libSection": "Повесть",
+    "origin": "Украина",
+    "rating": 4,
+    "exists": false
+  },
+  {
+    "name": "Анна Каренина",
+    "author": "Лев Толстой",
+    "publisher": "Точка",
+    "libSection": "Роман",
+    "origin": "Россия",
+    "rating": 4,
+    "exists": false
+  },
+  {
+    "name": "Война и Мир",
+    "author": "Лев Толстой",
+    "publisher": "Романы России",
+    "libSection": "Роман",
+    "origin": "Россия",
+    "rating": 2,
+    "exists": true
+  },
+  {
+    "name": "Тихий Дон",
+    "author": "Михаил Шолохов",
+    "publisher": "Бегемот",
+    "libSection": "Роман-эпопея",
+    "origin": "Россия",
+    "rating": 5,
+    "exists": true
+  },
+  {
+    "name": "Дети капитана Гранта",
+    "author": "Жюль Верн",
+    "publisher": "Точка",
+    "libSection": "Роман",
+    "origin": "Франция",
+    "rating": 3,
+    "exists": false
+  },
+  {
+    "name": "Шинель",
+    "author": "Николай Гоголь",
+    "publisher": "Точка",
+    "libSection": "Роман-антиутопия",
+    "origin": "Украина",
+    "rating": 3,
+    "exists": true
+  },
+  {
+    "name": "Пиковая дама",
+    "author": "Александр Пушкин",
+    "publisher": "Союз",
+    "libSection": "Повесть",
+    "origin": "Россия",
+    "rating": 5,
+    "exists": true
+  },
+  {
+    "name": "Зелёная миля",
+    "author": "Стивен Кинг",
+    "publisher": "АЗБУКА",
+    "libSection": "Роман",
+    "origin": "США",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Морской волк",
+    "author": "Джек Лондон",
+    "publisher": "Бегемот",
+    "libSection": "Роман",
+    "origin": "Великобритания",
+    "rating": 4,
+    "exists": false
+  },
+  {
+    "name": "На дне",
+    "author": "Максим Горький",
+    "publisher": "Зачёт",
+    "libSection": "Пьеса",
+    "origin": "Россия",
+    "rating": 3,
+    "exists": true
+  },
+  {
+    "name": "Вишнёвый сад",
+    "author": "Антон Чехов",
+    "publisher": "Знак",
+    "libSection": "Пьеса",
+    "origin": "Россия",
+    "rating": 2,
+    "exists": false
+  },
+  {
+    "name": "Белая гвардия",
+    "author": "Михаил Булгаков",
+    "publisher": "Зачёт",
+    "libSection": "Роман",
+    "origin": "Россия",
+    "rating": 5,
+    "exists": true
+  },
+  {
+    "name": "Властелин Колец",
+    "author": "Джон Толкин",
+    "publisher": "Зебра",
+    "libSection": "Роман-эпопея",
+    "origin": "Великобриания",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Зов Ктулху",
+    "author": "Говард Лавкрафт",
+    "publisher": "Зебра",
+    "libSection": "Рассказ",
+    "origin": "США",
+    "rating": 5,
+    "exists": false
+  },
+  {
+    "name": "Гамлет",
+    "author": "Уильям Шекспир",
+    "publisher": "Книга+",
+    "libSection": "Трагедия",
+    "origin": "Россия",
+    "rating": 5,
+    "exists": false
+  },
+  {
+    "name": "Сияние",
+    "author": "Стивен Кинг",
+    "publisher": "АЗБУКА",
+    "libSection": "Роман",
+    "origin": "США",
+    "rating": 4,
+    "exists": true
+  },
+  {
+    "name": "Приключения Тома Сойера",
+    "author": "Марк Твен",
+    "publisher": "Зачёт",
+    "libSection": "Повесть",
+    "origin": "США",
+    "rating": 5,
+    "exists": true
+  },
+  {
+    "name": "Алиса в Стране чудес",
+    "author": "Льюиса Кэрролла",
+    "publisher": "Зачёт",
+    "libSection": "Сказка",
+    "origin": "Великобритания",
+    "rating": 5,
+    "exists": false
+  },
+  {
+    "name": "Происхождение видов",
+    "author": "Чарлз Дарвин",
+    "publisher": "Зебра",
+    "libSection": "Образование",
+    "origin": "Россия",
+    "rating": 5,
+    "exists": false
+  }
+]
